@@ -1,0 +1,34 @@
+body{
+    background-image:url(https://universitario.pe/media/images/post/26996303_10211418232991222_624306446_n.png );
+    font-family: arial, helveticaS, sans-serif;
+    text-align: center;
+}
+
+.proyecto-grid{
+    display: grid;
+    grid-template-columns:auto auto auto ;
+    width: 80%;
+    margin: 0 auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5VggzheNk0Y9dEu7E3KeJzbkAfRqc-4LLXg&usqp=CAU);
+    background-position: 400%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+    border: 1px solid black;
+
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    border: 4px solid black;
+    background-image: url(https://i.pinimg.com/736x/ae/27/5c/ae275c7239205dd93b0e807cf2a6596c.jpg);
+    background-size: cover;
+    
+    margin: 15px;
+    text-align: center;
+    line-height: 150px;
+    
+}
+
